@@ -25,3 +25,6 @@ table, th, td {
 th {
     font-weight:bold;
 }
+body {
+    background-color:bisque;
+}
